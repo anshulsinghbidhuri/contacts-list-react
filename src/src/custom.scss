@@ -1,0 +1,32 @@
+.App{
+    // background-image: linear-gradient(50deg, #4568DC 0%,  #b06ab3 74%);
+    background-color: #D9AFD9;
+background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
+}
+
+.btn{
+    
+}.btn.btn-block.btn-dark{
+    margin-top: 7rem;
+}
+.display-3.text-center.fw-bold{
+    color: whitesmoke;
+    font-family: sans-serif;
+}
+.btn.btn-outline-dark{
+    background-color: cornflowerblue;
+}
+.btn.btn-dark{
+    margin-top: 7rem;
+}
+.btn.btn-danger.ms-3{
+    margin-top: 7rem;
+} 
+.heading{
+    position: absolute;
+    margin-top: 2rem;
+    margin-left: 27rem;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: whitesmoke
+}
